@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp64/www/ProjetINRA/View/intrant/list.php</file>
+            <file>file:/C:/wamp64/www/ProjetINRA/Js/Init.js</file>
+            <file>file:/C:/wamp64/www/ProjetINRA/Controller/ControllerTraitement.php</file>
+            <file>file:/C:/wamp64/www/ProjetINRA/Css/styles.css</file>
+            <file>file:/C:/wamp64/www/ProjetINRA/Model/ModelTraitement.php</file>
+            <file>file:/C:/wamp64/www/ProjetINRA/Model/ModelStation.php</file>
+            <file>file:/C:/wamp64/www/ProjetINRA/View/stade/list.php</file>
+            <file>file:/C:/wamp64/www/ProjetINRA/View/station/search.php</file>
+            <file>file:/C:/wamp64/www/ProjetINRA/View/stade/create.php</file>
+            <file>file:/C:/wamp64/www/ProjetINRA/View/station/created.php</file>
+            <file>file:/C:/wamp64/www/ProjetINRA/Model/ModelStade.php</file>
+            <file>file:/C:/wamp64/www/ProjetINRA/Model/ModelIntrant.php</file>
+            <file>file:/C:/wamp64/www/ProjetINRA/View/view.php</file>
+            <file>file:/C:/wamp64/www/ProjetINRA/View/traitement/createdErreurStade.php</file>
+            <file>file:/C:/wamp64/www/ProjetINRA/View/station/list.php</file>
+            <file>file:/C:/wamp64/www/ProjetINRA/View/traitement/create.php</file>
+            <file>file:/C:/wamp64/www/ProjetINRA/Controller/ControllerIntrant.php</file>
+            <file>file:/C:/wamp64/www/ProjetINRA/View/intrant/create.php</file>
+            <file>file:/C:/wamp64/www/ProjetINRA/View/stade/created.php</file>
+            <file>file:/C:/wamp64/www/ProjetINRA/Css/materialize.css</file>
+            <file>file:/C:/wamp64/www/ProjetINRA/Controller/ControllerStade.php</file>
+            <file>file:/C:/wamp64/www/ProjetINRA/View/intrant/created.php</file>
+            <file>file:/C:/wamp64/www/ProjetINRA/Controller/routeur.php</file>
+        </group>
+    </open-files>
+</project-private>
